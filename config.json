@@ -1,0 +1,6 @@
+{
+  "download_cred": "credentials.json",
+  "upload_cred": "credentials.json",
+  "download_token": "token.json",
+  "upload_token": "token.json"
+}
